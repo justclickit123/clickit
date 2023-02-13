@@ -31,6 +31,8 @@
         margin-bottom: 40px;
       }
     </style>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1786135172046524"
+     crossorigin="anonymous"></script>
   </head>
   <body>
     <div class="container">
